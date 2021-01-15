@@ -1,4 +1,5 @@
 Tujuan Kedepan 
 - Belajar Oop Php 
 - Belajar Git 
-- Belajar API
+- Belajar API 
+- Belajar Bahasa Inggris
