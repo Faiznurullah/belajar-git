@@ -3,3 +3,4 @@ Tujuan Kedepan
 - Belajar Git 
 - Belajar API 
 - Belajar Bahasa Inggris
+- Mengingat Basic Frontend 
