@@ -1,11 +1,12 @@
 Belajar lewat:
 - Dicoding
 - YouTube
-- Skillvul
+- Skilvul
 - Sanbarcode 
 - BWA
 - School 3
 - Google 
 - Udemy 
 - Codepolitan 
+- Sekolah Coding
 
