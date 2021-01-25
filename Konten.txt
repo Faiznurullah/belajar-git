@@ -9,4 +9,8 @@ Belajar lewat:
 - Udemy 
 - Codepolitan 
 - Sekolah Coding
+- Programmer Zaman Now 
+- Github
+- Gitlab 
+- Stackoverflow 
 
