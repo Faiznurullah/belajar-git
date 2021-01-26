@@ -13,4 +13,5 @@ Belajar lewat:
 - Github
 - Gitlab 
 - Stackoverflow 
+- Instagram
 
