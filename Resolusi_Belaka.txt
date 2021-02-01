@@ -1,8 +1,0 @@
-Tujuan Kedepan 
-- Belajar Oop Php 
-- Belajar Git 
-- Belajar API 
-- Belajar Bahasa Inggris
-- Mengingat Basic Frontend
-- Belajar Game Engine Construct
-
