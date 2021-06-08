@@ -4,7 +4,7 @@ Sumber Belajar Saya:
 - YouTube
 - Instagram
 - Facebook
-- Kotakode 
+
 
 *Site 
 - Dicoding
@@ -13,6 +13,8 @@ Sumber Belajar Saya:
 - GitHub
 - Malas Ngoding
 - Petani Kode 
+- Kotakode
+- Stackoveflow
 - Dst.
 
  
