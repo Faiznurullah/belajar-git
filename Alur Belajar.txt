@@ -1,19 +1,21 @@
 Menyusun Alur Belajar Saya:
 
-*Basic Frontend
+* Basic Frontend
 - Belajar Html
 - Belajar CSS 
+- Belajar Framework (Bootstrap)
 - Membuat Study Case 
 
-*Basic Beckend
+* Basic Backend
 - Belajar PHP 
 - Belajar PHP OOP
 - Belajar Mengenai Database 
 - Membuat Study Case 
 
-*Construct
-- Belajar Membuat Game 
+* Game Dev
+- Belajar Membuat Game
 
-*Mobile Apps
+
+* Mobile Apps Dev
 - Belajar Dart 
 - Belajar Flutter
