@@ -6,22 +6,18 @@ Sumber Belajar Saya:
 - Facebook
 - Blog
 
-
-*Site Name
+* Daftar Situs Belajar Programming Saya
 - Dicoding
-- Codepolitan 
-- Skilvul 
-- GitHub
-- Malas Ngoding
-- Petani Kode 
-- Kotakode
-- Stackoveflow
-- Dst.
+- Petani Kode
+- Skilvul
+- Codepolitan
+- Buildwithangga
+- DLL.
 
- 
-
-*Channel YouTube
-- Web Programming Unpas
-- Ngoding Pintar
-- Lemaudev 
-- Dst.
+* Daftar Chanel Youtube Belajar Saya
+- WPU (Web Programming Unpas)
+- Ngoding Pintar 
+- Indra Gunawan (Tentang Sofware Enginer)
+- Coinvestasi (Tentang Crypto Coin)
+- Kenari Studio
+- Ngomongin Uang 
